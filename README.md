@@ -86,13 +86,11 @@
 
 <div align="center">
 
-  <a href="www.linkedin.com/in/luane-soares-5b25b12a3" target="_blank">
+  <a href="https://www.linkedin.com/in/luane-soares-5b25b12a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="soaresluane73@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0059B3?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:soaresluane73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <br /><br />
-
-  <br /><br />
+</div>
