@@ -17,17 +17,17 @@
 
 ## 🔹 Sobre Mim
 
-- 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (*Projeto Mobile 2026*).
-- 📱 **Projeto Atual:** Aplicação móvel de **Achados e Perdidos** para o campus universitário.
-- ⚙️ **Foco de Estudo:** Arquitetura de APIs no backend com NestJS e interfaces dinâmicas no React Native.
-- 🌐 **Idioma da Documentação:** Padrão internacional com código limpo e commits semânticos.
-- 💙 **Paixão:** Criar soluções funcionais, elegantes e resolver problemas de sincronização no Git!
+-  **Curso:** Análise e Desenvolvimento de Sistemas (*Projeto Mobile 2026*).
+-  **Projeto Atual:** Aplicação móvel de **Achados e Perdidos** para o campus universitário.
+-  **Foco de Estudo:** Arquitetura de APIs no backend com NestJS e interfaces dinâmicas no React Native.
+-  **Idioma da Documentação:** Padrão internacional com código limpo e commits semânticos.
+-  **Paixão:** Criar soluções funcionais, elegantes e resolver problemas de sincronização no Git!
 
 ---
 
-## 🛠️ Tecnologias & Domínios
+##  Tecnologias & Domínios
 
-### 📱 Frontend & Mobile
+###  Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-005580?style=for-the-badge&logo=expo&logoColor=white" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Base de Dados
+###  Backend & Base de Dados
 <p>
   <img src="https://img.shields.io/badge/NestJS-185ADB?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-1C7293?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/REST_API-003366?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas & Fluxo de Trabalho
+###  Ferramentas & Fluxo de Trabalho
 <p>
   <img src="https://img.shields.io/badge/Git-00529B?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white" />
@@ -66,7 +66,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub (Tema Azul / Tokyonight)
+## 📈 Estatísticas do GitHub 
 
 <div align="center">
   <br />
