@@ -71,7 +71,7 @@
 <div align="center">
   <br />
   <!-- Visão geral de commits e atividade -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soaresluane73-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   <!-- Linguagens mais utilizadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresluane73-gif&layout=compact&theme=tokyonight" />
