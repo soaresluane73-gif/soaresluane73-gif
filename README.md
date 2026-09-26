@@ -70,8 +70,6 @@
 
 <div align="center">
   <br />
-  <!-- Visão geral de commits e atividade -->
-  gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   <!-- Linguagens mais utilizadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresluane73-gif&layout=compact&theme=tokyonight" />
@@ -88,14 +86,11 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/luane-soares-5b25b12a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="soaresluane73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0059B3?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0284C7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <br /><br />
